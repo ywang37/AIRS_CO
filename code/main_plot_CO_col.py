@@ -7,7 +7,7 @@ Created on September 9, 2019
 import datetime
 import glob
 
-from mylib.plot_AIRS import plot_AIRS3STD_col
+from mylib.plot_airs import plot_AIRS3STD_col
 
 #######################
 # Start user parameters
